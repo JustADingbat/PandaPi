@@ -1,4 +1,4 @@
-This project is no longer maintained although I don't want to, sorry.
+This project is no longer maintained although I don't want to, sorry. -- Mark
 
 ## 64-bit 3D printer controller.                                             
  Run Marlin & Octoprint on Raspberry Pi directly.             ([Where to buy and support me](https://www.pandapi3d.com/))
